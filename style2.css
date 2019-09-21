@@ -1,0 +1,97 @@
+
+.list {
+    list-style-type: none;
+    padding: 20px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-align: right;
+    background-color: grey; 
+    width: auto;
+       
+}
+
+
+
+
+.contact {
+
+    position: relative;
+    display: inline-block;
+    margin-top: 0;  
+  
+}
+
+form {
+  display: block;
+}
+
+textarea {
+width: 100%;
+padding: 12px;
+border: 1px solid #ccc;
+border-radius: 4px;
+box-sizing: border-box;
+margin-top: 6px;
+margin-bottom: 16px;
+resize: vertical ;
+resize:horizontal;
+}
+
+label {
+  padding: 0;
+  margin: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+  border: 0;
+}
+}
+
+
+.port1 {
+  background: wheat;
+  width: 50%;
+  height: 300px;
+  padding: 20px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+
+#full {
+  width: 100%;
+  overflow: auto;
+  clear: both;
+  color: #fff;
+  background: #394549;
+}
+
+#division {
+  padding: 20px;
+  margin-top: 20px;
+  background: #214fb3;
+}
+
+aside {
+  float: left;
+  width: 33%;
+  height: 200px;
+  padding: 20px;
+  margin-left: 30px;
+  text-decoration-color: white;
+  background:purple;
+  border: 1px solid #eee;
+}
+
+footer {
+  padding: 20px;
+  clear: both;
+  background: wheat;
+}
+
+section {
+  padding: 20px;
+  margin-bottom: 20px;
+  background: wheat;
+
+}
