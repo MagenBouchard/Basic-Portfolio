@@ -5,11 +5,10 @@
     margin-top: 0;
     margin-bottom: 20px;
     text-align: right;
-    background-color: grey; 
+    background-color: wheat; 
     width: auto;
        
 }
-
 
 
 
@@ -49,7 +48,7 @@ label {
 
 
 .port1 {
-  background: wheat;
+  background: white;
   width: 50%;
   height: 300px;
   padding: 20px;
@@ -62,14 +61,14 @@ label {
   width: 100%;
   overflow: auto;
   clear: both;
-  color: #fff;
-  background: #394549;
+  color: black;
+  background: white;
 }
 
 #division {
   padding: 20px;
   margin-top: 20px;
-  background: #214fb3;
+  background: white;
 }
 
 aside {
@@ -78,9 +77,10 @@ aside {
   height: 200px;
   padding: 20px;
   margin-left: 30px;
-  text-decoration-color: white;
-  background:purple;
+  text-decoration-color: rgb(19, 17, 17);
+  background: white;
   border: 1px solid #eee;
+
 }
 
 footer {
